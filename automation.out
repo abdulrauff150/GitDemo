@@ -1,0 +1,343 @@
+2018-05-17 13:53:04 INFO  TC001_VerifyLoginwithInvalidCredentials:30 - ===============Starting verifyLoginwithInvalidCredentials Test========================
+ 2018-05-17 13:53:06 INFO  Homepage:41 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (454279fa-d870-4083-9ee0-71e1e4735af7)] -> xpath: //a[@class='login']]
+ 2018-05-17 13:53:06 INFO  Homepage:43 - Entered Email address abcd@gmail.com and object is [[FirefoxDriver: firefox on XP (454279fa-d870-4083-9ee0-71e1e4735af7)] -> xpath: //*[@id='email']]
+ 2018-05-17 13:53:06 INFO  Homepage:45 - Entered passwrod pass1234 and object is [[FirefoxDriver: firefox on XP (454279fa-d870-4083-9ee0-71e1e4735af7)] -> xpath: //*[@id='passwd']]
+ 2018-05-17 13:53:07 INFO  Homepage:47 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (454279fa-d870-4083-9ee0-71e1e4735af7)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-17 13:53:08 INFO  TC001_VerifyLoginwithInvalidCredentials:35 - ===============Finished verifyLoginwithInvalidCredentials Test========================
+ 2018-05-17 13:59:52 INFO  TC001_VerifyLoginwithInvalidCredentials:30 - ===============Starting verifyLoginwithInvalidCredentials Test========================
+ 2018-05-17 13:59:55 INFO  Homepage:41 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (d21f8dca-cb1f-49c5-b7d1-59e39af5adb9)] -> xpath: //a[@class='login']]
+ 2018-05-17 13:59:55 INFO  Homepage:43 - Entered Email address abcd@gmail.com and object is [[FirefoxDriver: firefox on XP (d21f8dca-cb1f-49c5-b7d1-59e39af5adb9)] -> xpath: //*[@id='email']]
+ 2018-05-17 13:59:55 INFO  Homepage:45 - Entered passwrod pass1234 and object is [[FirefoxDriver: firefox on XP (d21f8dca-cb1f-49c5-b7d1-59e39af5adb9)] -> xpath: //*[@id='passwd']]
+ 2018-05-17 13:59:56 INFO  Homepage:47 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (d21f8dca-cb1f-49c5-b7d1-59e39af5adb9)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-17 13:59:56 INFO  Homepage:53 - error message is Authentication failed.
+ 2018-05-17 13:59:56 INFO  TC001_VerifyLoginwithInvalidCredentials:35 - ===============Finished verifyLoginwithInvalidCredentials Test========================
+ 2018-05-18 11:58:50 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-18 14:41:52 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-18 14:41:55 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (af0760b2-0c7d-4891-9207-cc4db39cbc12)] -> xpath: //a[@class='login']]
+ 2018-05-18 14:41:55 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-18 14:42:32 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-18 14:42:35 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (6f5c441e-8fef-4985-bd40-ff53a040c103)] -> xpath: //a[@class='login']]
+ 2018-05-18 14:42:35 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-18 14:44:06 INFO  TC001_VerifyLoginwithInvalidCredentials:30 - ===============Starting verifyLoginwithInvalidCredentials Test========================
+ 2018-05-18 14:44:08 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (794d7436-013f-42a6-9a45-43fbe96d06ce)] -> xpath: //a[@class='login']]
+ 2018-05-18 14:44:09 INFO  Homepage:44 - Entered Email address abcd@gmail.com and object is [[FirefoxDriver: firefox on XP (794d7436-013f-42a6-9a45-43fbe96d06ce)] -> xpath: //*[@id='email']]
+ 2018-05-18 14:44:09 INFO  Homepage:46 - Entered passwrod pass1234 and object is [[FirefoxDriver: firefox on XP (794d7436-013f-42a6-9a45-43fbe96d06ce)] -> xpath: //*[@id='passwd']]
+ 2018-05-18 14:44:10 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (794d7436-013f-42a6-9a45-43fbe96d06ce)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-18 14:44:10 INFO  Homepage:54 - error message is Authentication failed.
+ 2018-05-18 14:44:10 INFO  TC001_VerifyLoginwithInvalidCredentials:35 - ===============Finished verifyLoginwithInvalidCredentials Test========================
+ 2018-05-18 14:44:11 INFO  TestBase:33 - Creating Object of firefox
+ 2018-05-18 14:44:15 INFO  TestBase:46 - navigating to http://automationpractice.com/index.php
+ 2018-05-18 14:44:27 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-18 14:44:30 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (da208e3e-d7b2-4d62-9c00-cfd611c866cb)] -> xpath: //a[@class='login']]
+ 2018-05-18 14:44:31 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-18 19:58:06 INFO  TC003_VerifyLoginwithdifferentRecords:32 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-18 19:58:08 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (ac2b15bd-e44f-43b8-a8b6-44a6f2f7fd88)] -> xpath: //a[@class='login']]
+ 2018-05-18 19:58:09 INFO  Homepage:44 - Entered Email address automation@gmail.com and object is [[FirefoxDriver: firefox on XP (ac2b15bd-e44f-43b8-a8b6-44a6f2f7fd88)] -> xpath: //*[@id='email']]
+ 2018-05-18 19:58:09 INFO  Homepage:46 - Entered passwrod password and object is [[FirefoxDriver: firefox on XP (ac2b15bd-e44f-43b8-a8b6-44a6f2f7fd88)] -> xpath: //*[@id='passwd']]
+ 2018-05-18 19:58:10 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (ac2b15bd-e44f-43b8-a8b6-44a6f2f7fd88)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-18 19:58:10 INFO  TC003_VerifyLoginwithdifferentRecords:36 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 13:06:30 INFO  TC003_VerifyLoginwithdifferentRecords:32 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 13:06:33 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (6a157361-d669-4318-ac33-1dfdcf25edf2)] -> xpath: //a[@class='login']]
+ 2018-05-19 13:06:33 INFO  Homepage:44 - Entered Email address automation@gmail.com and object is [[FirefoxDriver: firefox on XP (6a157361-d669-4318-ac33-1dfdcf25edf2)] -> xpath: //*[@id='email']]
+ 2018-05-19 13:06:34 INFO  Homepage:46 - Entered passwrod password and object is [[FirefoxDriver: firefox on XP (6a157361-d669-4318-ac33-1dfdcf25edf2)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 13:06:36 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (6a157361-d669-4318-ac33-1dfdcf25edf2)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 13:06:36 INFO  TC003_VerifyLoginwithdifferentRecords:36 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:06:53 INFO  TC003_VerifyLoginwithdifferentRecords:38 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:06:56 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //a[@class='login']]
+ 2018-05-19 14:06:56 INFO  Homepage:44 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='email']]
+ 2018-05-19 14:06:56 INFO  Homepage:46 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 14:06:57 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 14:06:57 INFO  TC003_VerifyLoginwithdifferentRecords:42 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:06:57 INFO  TC003_VerifyLoginwithdifferentRecords:38 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:06:59 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //a[@class='login']]
+ 2018-05-19 14:06:59 INFO  Homepage:44 - Entered Email address automation2@gmail.com and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='email']]
+ 2018-05-19 14:06:59 INFO  Homepage:46 - Entered passwrod password2 and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 14:07:00 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 14:07:00 INFO  TC003_VerifyLoginwithdifferentRecords:42 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:07:00 INFO  TC003_VerifyLoginwithdifferentRecords:38 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:07:02 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //a[@class='login']]
+ 2018-05-19 14:07:02 INFO  Homepage:44 - Entered Email address automation3@gmail.com and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='email']]
+ 2018-05-19 14:07:02 INFO  Homepage:46 - Entered passwrod password3 and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 14:07:04 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 14:07:04 INFO  TC003_VerifyLoginwithdifferentRecords:42 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:07:04 INFO  TC003_VerifyLoginwithdifferentRecords:38 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:07:05 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //a[@class='login']]
+ 2018-05-19 14:07:06 INFO  Homepage:44 - Entered Email address automation4@gmail.com and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='email']]
+ 2018-05-19 14:07:06 INFO  Homepage:46 - Entered passwrod password4 and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 14:07:07 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (d4e0d36a-3925-4183-9c6e-5b7c64154ec3)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 14:07:07 INFO  TC003_VerifyLoginwithdifferentRecords:42 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:08:39 INFO  TC003_VerifyLoginwithdifferentRecords:38 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:08:42 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //a[@class='login']]
+ 2018-05-19 14:08:42 INFO  Homepage:44 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='email']]
+ 2018-05-19 14:08:42 INFO  Homepage:46 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 14:08:44 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 14:08:44 INFO  TC003_VerifyLoginwithdifferentRecords:42 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:08:44 INFO  TC003_VerifyLoginwithdifferentRecords:38 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:08:45 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //a[@class='login']]
+ 2018-05-19 14:08:45 INFO  Homepage:44 - Entered Email address automation2@gmail.com and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='email']]
+ 2018-05-19 14:08:46 INFO  Homepage:46 - Entered passwrod password2 and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 14:08:47 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 14:08:47 INFO  TC003_VerifyLoginwithdifferentRecords:42 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:08:47 INFO  TC003_VerifyLoginwithdifferentRecords:38 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:08:48 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //a[@class='login']]
+ 2018-05-19 14:08:48 INFO  Homepage:44 - Entered Email address automation3@gmail.com and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='email']]
+ 2018-05-19 14:08:49 INFO  Homepage:46 - Entered passwrod password3 and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 14:08:50 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 14:08:50 INFO  TC003_VerifyLoginwithdifferentRecords:42 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:08:50 INFO  TC003_VerifyLoginwithdifferentRecords:38 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-19 14:08:52 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //a[@class='login']]
+ 2018-05-19 14:08:52 INFO  Homepage:44 - Entered Email address automation4@gmail.com and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='email']]
+ 2018-05-19 14:08:52 INFO  Homepage:46 - Entered passwrod password4 and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='passwd']]
+ 2018-05-19 14:08:54 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (894cb6c5-ed4a-4de2-9780-793dc11b1bf7)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-19 14:08:54 INFO  TC003_VerifyLoginwithdifferentRecords:42 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:17:35 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:17:44 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //a[@class='login']]
+ 2018-05-20 11:17:44 INFO  Homepage:44 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='email']]
+ 2018-05-20 11:17:44 INFO  Homepage:46 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 11:17:47 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 11:17:47 INFO  TC003_VerifyLoginwithdifferentRecords:43 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:17:47 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:17:50 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //a[@class='login']]
+ 2018-05-20 11:17:50 INFO  Homepage:44 - Entered Email address automation2@gmail.com and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='email']]
+ 2018-05-20 11:17:50 INFO  Homepage:46 - Entered passwrod password2 and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 11:17:52 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 11:17:52 INFO  TC003_VerifyLoginwithdifferentRecords:43 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:17:52 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:17:55 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //a[@class='login']]
+ 2018-05-20 11:17:55 INFO  Homepage:44 - Entered Email address automation3@gmail.com and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='email']]
+ 2018-05-20 11:17:55 INFO  Homepage:46 - Entered passwrod password3 and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 11:17:57 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 11:17:57 INFO  TC003_VerifyLoginwithdifferentRecords:43 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:17:57 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:17:59 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //a[@class='login']]
+ 2018-05-20 11:17:59 INFO  Homepage:44 - Entered Email address automation4@gmail.com and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='email']]
+ 2018-05-20 11:17:59 INFO  Homepage:46 - Entered passwrod password4 and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 11:18:00 INFO  Homepage:48 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 11:18:00 INFO  TC003_VerifyLoginwithdifferentRecords:43 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:18:00 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 11:18:03 INFO  Homepage:42 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //a[@class='login']]
+ 2018-05-20 11:18:03 INFO  Homepage:44 - Entered Email address abdulrauff150@gmail.com and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='email']]
+ 2018-05-20 11:18:03 INFO  Homepage:46 - Entered passwrod zaq12wsx and object is [[FirefoxDriver: firefox on XP (9fdd9f9b-d5fc-4d38-bd31-9b5ea74a850f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 11:19:06 INFO  Homepage:48 - Clicked on Submit button and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+ 2018-05-20 11:19:06 INFO  TC003_VerifyLoginwithdifferentRecords:43 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:13:24 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:13:27 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:13:27 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:13:28 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:13:29 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 14:13:29 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:13:31 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:13:31 INFO  Homepage:47 - Entered Email address automation2@gmail.com and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:13:31 INFO  Homepage:49 - Entered passwrod password2 and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:13:33 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 14:13:33 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:13:34 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:13:34 INFO  Homepage:47 - Entered Email address automation3@gmail.com and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:13:35 INFO  Homepage:49 - Entered passwrod password3 and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:13:36 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 14:13:36 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:13:38 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:13:38 INFO  Homepage:47 - Entered Email address automation4@gmail.com and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:13:38 INFO  Homepage:49 - Entered passwrod password4 and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:13:39 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 14:13:39 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:13:41 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:13:41 INFO  Homepage:47 - Entered Email address abdulrauff150@gmail.com and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:13:41 INFO  Homepage:49 - Entered passwrod zaq12wsx and object is [[FirefoxDriver: firefox on XP (2ae556d8-f135-4bb2-b2e4-4b63f4f508cb)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:14:43 INFO  Homepage:51 - Clicked on Submit button and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+ 2018-05-20 14:16:20 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:23 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:16:23 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:16:23 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:16:24 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 14:16:24 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:24 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:26 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:16:26 INFO  Homepage:47 - Entered Email address automation2@gmail.com and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:16:26 INFO  Homepage:49 - Entered passwrod password2 and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:16:27 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 14:16:27 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:27 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:29 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:16:29 INFO  Homepage:47 - Entered Email address automation3@gmail.com and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:16:29 INFO  Homepage:49 - Entered passwrod password3 and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:16:30 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 14:16:30 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:30 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:32 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:16:32 INFO  Homepage:47 - Entered Email address automation4@gmail.com and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:16:32 INFO  Homepage:49 - Entered passwrod password4 and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:16:33 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-20 14:16:33 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:33 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-20 14:16:37 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //a[@class='login']]
+ 2018-05-20 14:16:37 INFO  Homepage:47 - Entered Email address abdulrauff150@gmail.com and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='email']]
+ 2018-05-20 14:16:37 INFO  Homepage:49 - Entered passwrod zaq12wsx and object is [[FirefoxDriver: firefox on XP (7c5e9a10-33af-4b1a-b432-53f8c9cd4c7f)] -> xpath: //*[@id='passwd']]
+ 2018-05-20 14:17:39 INFO  Homepage:51 - Clicked on Submit button and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+ 2018-05-20 14:17:39 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:26:52 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:26:55 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //a[@class='login']]
+ 2018-05-21 11:26:55 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='email']]
+ 2018-05-21 11:26:55 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 11:26:57 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 11:26:57 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:26:57 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:26:59 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //a[@class='login']]
+ 2018-05-21 11:26:59 INFO  Homepage:47 - Entered Email address automation2@gmail.com and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='email']]
+ 2018-05-21 11:26:59 INFO  Homepage:49 - Entered passwrod password2 and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 11:27:00 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 11:27:00 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:27:00 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:27:02 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //a[@class='login']]
+ 2018-05-21 11:27:03 INFO  Homepage:47 - Entered Email address automation3@gmail.com and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='email']]
+ 2018-05-21 11:27:03 INFO  Homepage:49 - Entered passwrod password3 and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 11:27:04 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 11:27:04 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:27:04 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:27:06 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //a[@class='login']]
+ 2018-05-21 11:27:06 INFO  Homepage:47 - Entered Email address automation4@gmail.com and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='email']]
+ 2018-05-21 11:27:06 INFO  Homepage:49 - Entered passwrod password4 and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 11:27:08 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 11:27:08 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:27:08 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:27:10 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //a[@class='login']]
+ 2018-05-21 11:27:10 INFO  Homepage:47 - Entered Email address abdulrauff150@gmail.com and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='email']]
+ 2018-05-21 11:27:10 INFO  Homepage:49 - Entered passwrod zaq12wsx and object is [[FirefoxDriver: firefox on XP (46f23ba5-01ee-4117-aefa-779ac8a5b8ba)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 11:28:12 INFO  Homepage:51 - Clicked on Submit button and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+ 2018-05-21 11:28:12 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:51:56 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 11:51:59 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (683f4999-db51-42a1-9145-5a07bab0c529)] -> xpath: //a[@class='login']]
+ 2018-05-21 11:51:59 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (683f4999-db51-42a1-9145-5a07bab0c529)] -> xpath: //*[@id='email']]
+ 2018-05-21 11:51:59 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (683f4999-db51-42a1-9145-5a07bab0c529)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 11:52:01 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (683f4999-db51-42a1-9145-5a07bab0c529)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 12:10:55 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:10:57 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (a3a3ab4f-e48c-4f27-bdde-5da7c418f26d)] -> xpath: //a[@class='login']]
+ 2018-05-21 12:10:57 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (a3a3ab4f-e48c-4f27-bdde-5da7c418f26d)] -> xpath: //*[@id='email']]
+ 2018-05-21 12:10:58 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (a3a3ab4f-e48c-4f27-bdde-5da7c418f26d)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 12:10:59 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (a3a3ab4f-e48c-4f27-bdde-5da7c418f26d)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 12:31:39 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:31:42 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //a[@class='login']]
+ 2018-05-21 12:31:42 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='email']]
+ 2018-05-21 12:31:42 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 12:31:46 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 12:32:46 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:32:46 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:32:48 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //a[@class='login']]
+ 2018-05-21 12:32:48 INFO  Homepage:47 - Entered Email address automation2@gmail.com and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='email']]
+ 2018-05-21 12:32:48 INFO  Homepage:49 - Entered passwrod password2 and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 12:32:50 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 12:33:50 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:33:50 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:33:53 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //a[@class='login']]
+ 2018-05-21 12:33:53 INFO  Homepage:47 - Entered Email address automation3@gmail.com and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='email']]
+ 2018-05-21 12:33:53 INFO  Homepage:49 - Entered passwrod password3 and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 12:33:55 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 12:34:55 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:34:55 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:34:57 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //a[@class='login']]
+ 2018-05-21 12:34:58 INFO  Homepage:47 - Entered Email address automation4@gmail.com and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='email']]
+ 2018-05-21 12:34:58 INFO  Homepage:49 - Entered passwrod password4 and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 12:34:59 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 12:35:59 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:35:59 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 12:36:01 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //a[@class='login']]
+ 2018-05-21 12:36:02 INFO  Homepage:47 - Entered Email address abdulrauff150@gmail.com and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='email']]
+ 2018-05-21 12:36:02 INFO  Homepage:49 - Entered passwrod zaq12wsx and object is [[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 12:37:04 INFO  Homepage:51 - Clicked on Submit button and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+ 2018-05-21 12:37:04 INFO  Homepage:68 - SignOut button is displayed and the Object is:-[[FirefoxDriver: firefox on XP (be51afd2-0cb5-4b6d-b9d5-c2df99d9f333)] -> xpath: //*[@class='logout']]
+ 2018-05-21 12:37:06 INFO  TC003_VerifyLoginwithdifferentRecords:49 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:35:33 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:35:36 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //a[@class='login']]
+ 2018-05-21 18:35:36 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='email']]
+ 2018-05-21 18:35:36 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 18:35:38 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 18:36:38 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:36:38 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:36:40 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //a[@class='login']]
+ 2018-05-21 18:36:41 INFO  Homepage:47 - Entered Email address automation2@gmail.com and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='email']]
+ 2018-05-21 18:36:41 INFO  Homepage:49 - Entered passwrod password2 and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 18:36:42 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 18:37:42 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:37:42 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:37:45 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //a[@class='login']]
+ 2018-05-21 18:37:45 INFO  Homepage:47 - Entered Email address automation3@gmail.com and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='email']]
+ 2018-05-21 18:37:45 INFO  Homepage:49 - Entered passwrod password3 and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 18:37:46 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 18:38:46 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:38:46 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:38:48 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //a[@class='login']]
+ 2018-05-21 18:38:48 INFO  Homepage:47 - Entered Email address automation4@gmail.com and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='email']]
+ 2018-05-21 18:38:48 INFO  Homepage:49 - Entered passwrod password4 and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 18:38:50 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 18:39:50 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:39:50 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 18:39:52 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //a[@class='login']]
+ 2018-05-21 18:39:52 INFO  Homepage:47 - Entered Email address abdulrauff150@gmail.com and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='email']]
+ 2018-05-21 18:39:52 INFO  Homepage:49 - Entered passwrod zaq12wsx and object is [[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 18:40:54 INFO  Homepage:51 - Clicked on Submit button and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+ 2018-05-21 18:40:54 INFO  Homepage:68 - SignOut button is displayed and the Object is:-[[FirefoxDriver: firefox on XP (bfa00a5f-6f27-497a-a8df-766e0f00a796)] -> xpath: //*[@class='logout']]
+ 2018-05-21 18:40:57 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 19:05:37 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 19:05:42 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (79dc60a8-1e8a-4e01-8603-02c7286fecf4)] -> xpath: //a[@class='login']]
+ 2018-05-21 19:05:42 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (79dc60a8-1e8a-4e01-8603-02c7286fecf4)] -> xpath: //*[@id='email']]
+ 2018-05-21 19:05:42 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (79dc60a8-1e8a-4e01-8603-02c7286fecf4)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 19:05:44 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (79dc60a8-1e8a-4e01-8603-02c7286fecf4)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-21 19:06:44 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 19:06:44 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-21 19:06:47 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (79dc60a8-1e8a-4e01-8603-02c7286fecf4)] -> xpath: //a[@class='login']]
+ 2018-05-21 19:06:47 INFO  Homepage:47 - Entered Email address abdulrauff150@gmail.com and object is [[FirefoxDriver: firefox on XP (79dc60a8-1e8a-4e01-8603-02c7286fecf4)] -> xpath: //*[@id='email']]
+ 2018-05-21 19:06:47 INFO  Homepage:49 - Entered passwrod zaq12wsx and object is [[FirefoxDriver: firefox on XP (79dc60a8-1e8a-4e01-8603-02c7286fecf4)] -> xpath: //*[@id='passwd']]
+ 2018-05-21 19:07:50 INFO  Homepage:51 - Clicked on Submit button and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+ 2018-05-21 19:07:50 INFO  Homepage:68 - SignOut button is displayed and the Object is:-[[FirefoxDriver: firefox on XP (79dc60a8-1e8a-4e01-8603-02c7286fecf4)] -> xpath: //*[@class='logout']]
+ 2018-05-21 19:07:52 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-22 11:33:45 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:33:48 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (69ca2e09-9b75-418f-840d-7d68dd876c72)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:33:48 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:41:56 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:41:58 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (6f877b50-ee15-4e87-bd7d-ab8e72f6933a)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:41:59 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:44:12 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:44:15 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (be14945f-f04a-40d8-b316-dbfe4d778a6f)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:44:16 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:46:26 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:46:29 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (4470c3cf-ddb5-40fb-8816-28d09afb897a)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:46:29 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:47:43 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:47:45 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (952a8ee0-5e0b-4804-a264-b0411a1d87d1)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:47:46 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:49:54 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:49:57 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (66b65b5b-38a5-4972-b14f-9d6a8fdcd6b5)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:50:26 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:51:45 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:51:47 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (e93029a3-d487-4604-bc57-70ba4522b17e)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:51:48 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:52:44 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:52:47 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (47daff4c-7bd7-430a-8cab-12451ae0d1d4)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:52:48 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:53:59 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:54:02 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (2192a60d-0381-4b17-8d5c-be7742467152)] -> xpath: //a[@class='login']]
+ 2018-05-22 11:54:03 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-22 11:55:45 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 11:55:48 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (a5c325da-7753-4917-94aa-49b1ca086438)] -> xpath: //a[@class='login']]
+ 2018-05-22 12:52:42 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-22 12:52:45 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (254aa215-6ca2-4511-90b5-75760025f991)] -> xpath: //a[@class='login']]
+ 2018-05-24 10:45:46 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-24 10:45:49 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (a7b6cb31-8403-4615-95c8-8e16cd3b7c88)] -> xpath: //a[@class='login']]
+ 2018-05-24 10:45:49 INFO  Homepage:47 - Entered Email address automation1@gmail.com and object is [[FirefoxDriver: firefox on XP (a7b6cb31-8403-4615-95c8-8e16cd3b7c88)] -> xpath: //*[@id='email']]
+ 2018-05-24 10:45:49 INFO  Homepage:49 - Entered passwrod password1 and object is [[FirefoxDriver: firefox on XP (a7b6cb31-8403-4615-95c8-8e16cd3b7c88)] -> xpath: //*[@id='passwd']]
+ 2018-05-24 10:45:50 INFO  Homepage:51 - Clicked on Submit button and object is [[FirefoxDriver: firefox on XP (a7b6cb31-8403-4615-95c8-8e16cd3b7c88)] -> xpath: //*[@id='SubmitLogin']]
+ 2018-05-24 10:46:51 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-24 10:46:51 INFO  TC003_VerifyLoginwithdifferentRecords:39 - ===============Starting VerifyLoginwithdifferentRecords Test========================
+ 2018-05-24 10:46:53 INFO  Homepage:45 - Clicked on Sign In and Object is [[FirefoxDriver: firefox on XP (a7b6cb31-8403-4615-95c8-8e16cd3b7c88)] -> xpath: //a[@class='login']]
+ 2018-05-24 10:46:53 INFO  Homepage:47 - Entered Email address abdulrauff150@gmail.com and object is [[FirefoxDriver: firefox on XP (a7b6cb31-8403-4615-95c8-8e16cd3b7c88)] -> xpath: //*[@id='email']]
+ 2018-05-24 10:46:53 INFO  Homepage:49 - Entered passwrod zaq12wsx and object is [[FirefoxDriver: firefox on XP (a7b6cb31-8403-4615-95c8-8e16cd3b7c88)] -> xpath: //*[@id='passwd']]
+ 2018-05-24 10:47:56 INFO  Homepage:51 - Clicked on Submit button and object is Proxy element for: DefaultElementLocator 'By.xpath: //*[@id='SubmitLogin']'
+ 2018-05-24 10:47:56 INFO  Homepage:68 - SignOut button is displayed and the Object is:-[[FirefoxDriver: firefox on XP (a7b6cb31-8403-4615-95c8-8e16cd3b7c88)] -> xpath: //*[@class='logout']]
+ 2018-05-24 10:47:58 INFO  TC003_VerifyLoginwithdifferentRecords:50 - ===============Finished VerifyLoginwithdifferentRecords Test========================
+ 2018-05-24 12:30:13 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-24 12:30:16 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (71e3b241-98c0-4048-9503-37829e0d64bb)] -> xpath: //a[@class='login']]
+ 2018-05-24 12:30:17 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 2018-05-24 12:36:30 INFO  TC002_VerifySignUp:29 - ===============Starting verifySignup Test========================
+ 2018-05-24 12:36:33 INFO  Signup:33 - Clicked on Sign In to start registration and Object is [[FirefoxDriver: firefox on XP (4e636b2f-06a6-4499-832e-21e5355d34a4)] -> xpath: //a[@class='login']]
+ 2018-05-24 12:36:33 INFO  TC002_VerifySignUp:34 - ===============Finished verifySignup Test========================
+ 
